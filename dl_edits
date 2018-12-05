@@ -1,0 +1,3 @@
+sleep time based on individual contract, give default but allow to change
+little more detail on readme on how to call executable `tweet_engagements.py`
+check tweet_ids_file for trailing new line at end
